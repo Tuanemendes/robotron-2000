@@ -4,4 +4,4 @@ Projeto como o foco de aprendizado na lingugem javascript , colocado no ar por m
 
 link para ver o projeto funcionando
 
-	&#xf368; [robotro-2000](https://robotron-2000-5wl632wif-tuanemendes.vercel.app/) 
+<i class="gg-awards"></i> [robotro-2000](https://robotron-2000-5wl632wif-tuanemendes.vercel.app/) 
