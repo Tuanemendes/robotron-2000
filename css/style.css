@@ -208,6 +208,12 @@ main {
     flex-basis: 35%;
     margin: 10px 0 0;
 }
+/*****cor do robo***/
+.troca-cor-robo{
+    flex-direction:row;
+    flex-basis: 23%;
+    padding: 2em 2em 0;
+}
 
 @media screen and (max-width: 1600px) {
     body { 
